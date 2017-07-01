@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar main>
+    <ion-title>Research Study</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <ion-card>
+    <ion-card-content>
+      I agree to participate in the research study led by Dr. Zhen Lu. I understand that the purpose of this study is to
+      determine the efficacy of bringing technology into the classroom via a cell phone application. I understand that
+      my participation in this study is completely voluntary. There is no explicit or implicit coercion whatsoever to
+      participate. <br>
+      My participation involves submitting my basic profile information, question input data, and anonymous geolocation data.
+      I understand that the information is transmitted using encrypted SSL to a remote server. <br>
+      By agreeing to participate, I agree to allow this application or webpage to gather anonymous location data
+      anonymously and store it in a server. I understand that this location data will never be linked to my user information.
+    </ion-card-content>
+    <ion-item>
+      <ion-label>I wish to participate.</ion-label>
+      <ion-checkbox item-right tappable (click)="toggleAgreement()" checked="true"></ion-checkbox>
+    </ion-item>
+    <button main block (click)="signAgreement()">Continue</button>
+  </ion-card>
+
+</ion-content>

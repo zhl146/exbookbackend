@@ -1,0 +1,36 @@
+<ion-header>
+    <ion-toolbar main>
+        <ion-title>
+            Menu
+        </ion-title>
+        <ion-buttons start>
+            <button (click)="dismiss()">
+                <span showWhen="ios">Cancel</span>
+                <ion-icon name="md-close" showWhen="android,windows"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-list>
+
+        <ion-item (click)="showOptions()">
+            View Options <ion-icon item-right name="settings"></ion-icon>
+        </ion-item>
+        <ion-item (click)="showRewards()">
+            View Rewards <ion-icon item-right name="ice-cream"></ion-icon>
+        </ion-item>
+    </ion-list>
+
+</ion-content>
+
+<ion-footer accent>
+    <ion-toolbar>
+        <ion-buttons end>
+            <button (click)="showLogoutAlert()">
+                Log Out<ion-icon name="log-out"></ion-icon>
+            </button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-footer>

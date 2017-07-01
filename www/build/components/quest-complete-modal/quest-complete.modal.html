@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar main>
+    <ion-title>Quest Complete!</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+<ion-list>
+  <ion-item>
+    Questions correct
+    <ion-note correct item-right>{{user_performance.number_correct}}/{{user_performance.number_total}}</ion-note>
+  </ion-item>
+  <ion-item>
+    Base points
+    <ion-note correct item-right>{{user_performance.number_correct*user_performance.points_per_question}}</ion-note>
+  </ion-item>
+  <ion-item>
+    Multiplier Bonus
+    <ion-note correct item-right>{{user_performance.multiplier_points}}</ion-note>
+  </ion-item>
+  <ion-item *ngIf="user_performance.score_bonus != 0">
+    Daily Bonus
+    <ion-note correct item-right>{{user_performance.score_bonus}}</ion-note>
+  </ion-item>
+  <ion-item>
+    Total Points
+    <ion-note correct item-right>
+      {{user_performance.number_correct*user_performance.points_per_question
+      +user_performance.multiplier_points
+      +user_performance.score_bonus}}
+      </ion-note>
+  </ion-item>
+
+</ion-list>
+  <button main block (click)="goHome()">Start something new</button>
+</ion-content>

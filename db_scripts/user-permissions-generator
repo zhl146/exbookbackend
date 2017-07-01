@@ -1,0 +1,2 @@
+CREATE USER 'appuser'@'localhost' IDENTIFIED BY 'carhorsebatterysuccess';
+GRANT ALL PRIVILEGES ON *.* TO 'appuser'@'localhost' WITH GRANT OPTION;

@@ -1,0 +1,79 @@
+<ion-header>
+  <ion-toolbar main>
+
+    <ion-buttons left>
+      <button (click)="showRewards()">
+        <ion-icon name="flask"></ion-icon>{{userInfo.total_points}}
+      </button>
+    </ion-buttons>
+
+    <ion-buttons end>
+      <button (click)="showMenu()">
+        x{{userInfo.multiplier}}<ion-icon name="more"></ion-icon>
+      </button>
+    </ion-buttons>
+
+  </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+
+  <ion-card>
+    <ion-card-content>
+      <h1
+              [MathJax]="questionPrompt"
+              text-center>
+        {{questionPrompt}}
+      </h1>
+
+    </ion-card-content>
+
+  </ion-card>
+
+
+  <div class="progress">
+    <div class="progress-bar"
+         [ngStyle]="{
+              'width': time_left + '%',
+              'background-color': time_left >= 25 ? '#1B998B':'#f53d3d'
+             }">
+    </div>
+  </div>
+
+
+  <ion-card *ngFor="let answer of questionAnswers"
+            @answerState="getAnswerState(answer.index)"
+            [ngClass]="getFeedbackStyle(answer.index)">
+
+    <ion-card-content
+            [MathJax]="answer.text"
+            tappable
+            text-center
+            value="{{answer.index}}"
+            [style.pointer-events]="pleaseWait ? 'none': 'auto'"
+            (click)="onAnswerClick(answer.index)">
+      {{answer.text}}
+    </ion-card-content>
+  </ion-card>
+
+  <div class="spinner" *ngIf="spinnerActive">
+    <ion-spinner></ion-spinner>
+  </div>
+
+  <button main block *ngIf="nextButton" (click)="nextQuestion()">Next Question</button>
+  <button main block *ngIf="questComplete" (click)="showQuestCompleteModal()">See How You Did</button>
+
+</ion-content>
+
+<ion-footer accent>
+  <ion-toolbar>
+    <span *ngIf="userInfo.number_of_questions">Question {{userInfo.current_progress + 1}}/{{userInfo.number_of_questions}}</span>
+    <ion-buttons end>
+      <button (click)="showGoHomeAlert()">
+        Go Home<ion-icon name="home"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-footer>
+

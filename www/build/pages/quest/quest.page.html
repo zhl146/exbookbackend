@@ -1,0 +1,58 @@
+<ion-header>
+  <ion-navbar main>
+    <ion-buttons end>
+      <button (click)="showMenu()">
+        {{user_info?.first_name}}<ion-icon name="more"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+
+  <ion-item>
+    <ion-label>Chapter</ion-label>
+    <ion-select [(ngModel)]="chapter_index">
+      <ion-option *ngFor="let option of (quest_options)?.chapter_options"
+                  value="{{option.chapter_index}}">
+        {{option.chapter_index}}
+      </ion-option>
+    </ion-select>
+  </ion-item>
+
+  <ion-list>
+    <ion-item>
+      <ion-label>Number of Questions</ion-label>
+      <ion-select [(ngModel)]="number_of_questions">
+        <ion-option *ngFor="let option of (quest_options)?.number_of_questions_options"
+                    value="{{option}}">
+                    {{option}}
+        </ion-option>
+      </ion-select>
+    </ion-item>
+
+    <!--<ion-item>-->
+      <!--<ion-label>Question type</ion-label>-->
+      <!--<ion-select [(ngModel)]="questionType">-->
+        <!--<ion-option value="0">Word choices</ion-option>-->
+        <!--<ion-option value="1">Definition choices</ion-option>-->
+        <!--<ion-option value="2">Random</ion-option>-->
+      <!--</ion-select>-->
+    <!--</ion-item>-->
+
+  <ion-item>
+    <ion-label>Timed</ion-label>
+    <ion-toggle tappable correct (click)="toggleTimed()" checked="false"></ion-toggle>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>Cumulative</ion-label>
+    <ion-toggle tappable correct (click)="toggleCumulative()" checked="false"></ion-toggle>
+  </ion-item>
+
+  </ion-list>
+
+  <button block main (click)="submitQuest()">Start Quest</button>
+
+</ion-content>

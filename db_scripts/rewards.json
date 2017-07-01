@@ -1,0 +1,85 @@
+{
+  "class_code": "A1B2C3D4E5",
+  "rewards": [
+    {
+      "required_points": 20000,
+      "reward_name": "20 Bonus Points",
+      "reward_description": "I'll add 20 bonus points to your grade at the end of the semester!"
+    },
+    {
+      "required_points": 150000,
+      "reward_name": "HW Milestone 1",
+      "reward_description": "If you reach this milestone, you will receive at least a 10% homework score for this module."
+    },
+    {
+      "required_points": 300000,
+      "reward_name": "HW Milestone 2",
+      "reward_description": "If you reach this milestone, you will receive at least a 20% homework score for this module."
+    },
+    {
+      "required_points": 450000,
+      "reward_name": "HW Milestone 3",
+      "reward_description": "If you reach this milestone, you will receive at least a 30% homework score for this module."
+    },
+    {
+      "required_points": 600000,
+      "reward_name": "HW Milestone 4",
+      "reward_description": "If you reach this milestone, you will receive at least a 40% homework score for this module."
+    },
+    {
+      "required_points": 750000,
+      "reward_name": "Exam 1 Cheat Sheet",
+      "reward_description": "You may bring a 'cheat sheet' to exam 1. This cheat sheet can have anything on it EXCEPT example problems. I expect that you turn the sheet in with your exam."
+    },
+    {
+      "required_points": 900000,
+      "reward_name": "HW Milestone 5",
+      "reward_description": "If you reach this milestone, you will receive at least a 50% homework score for this module."
+    },
+    {
+      "required_points": 1050000,
+      "reward_name": "HW Milestone 6",
+      "reward_description": "If you reach this milestone, you will receive at least a 60% homework score for this module."
+    },
+    {
+      "required_points": 1200000,
+      "reward_name": "HW Milestone 7",
+      "reward_description": "If you reach this milestone, you will receive at least a 70% homework score for this module."
+    },
+    {
+      "required_points": 1350000,
+      "reward_name": "HW Milestone 8",
+      "reward_description": "If you reach this milestone, you will receive at least a 80% homework score for this module."
+    },
+    {
+      "required_points": 1500000,
+      "reward_name": "Exam 2 Cheat Sheet",
+      "reward_description": "You may bring a 'cheat sheet' to exam 2. This cheat sheet can have anything on it EXCEPT example problems. I expect that you turn the sheet in with your exam."
+    },
+    {
+      "required_points": 1650000,
+      "reward_name": "HW Milestone 9",
+      "reward_description": "If you reach this milestone, you will receive at least a 90% homework score for this module."
+    },
+    {
+      "required_points": 1800000,
+      "reward_name": "HW Milestone 10",
+      "reward_description": "If you reach this milestone, you will receive a 100% homework score for this module."
+    },
+    {
+      "required_points": 1950000,
+      "reward_name": "Final Exam Cheat Sheet",
+      "reward_description": "You may bring a 'cheat sheet' to the final exam. This cheat sheet can have anything on it EXCEPT example problems. I expect that you turn the sheet in with your exam."
+    },
+    {
+      "required_points": 2100000,
+      "reward_name": "Drop 1 HW",
+      "reward_description": "I will drop your worst NONZERO homework. If you do not have any homework scores below 90%, I will add some bonus points instead."
+    },
+    {
+      "required_points": 2250000,
+      "reward_name": "Drop 1 Quiz",
+      "reward_description": "I will drop your worst NONZERO quiz. If you do not have any quiz scores below 90%, I will add some bonus points instead."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<ion-header #menu>
+  <ion-navbar main>
+      <ion-buttons left >
+        <button (click)="showRewards()">
+          <ion-icon name="flask"></ion-icon>{{user_info?.total_points}}
+        </button>
+      </ion-buttons>
+
+      <ion-buttons right>
+        <button (click)="showMenu()">
+          {{user_info?.first_name}}<ion-icon name="more"></ion-icon>
+        </button>
+      </ion-buttons>
+
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-card-header>
+        Practice session
+    </ion-card-header>
+    <ion-card-content>
+      <p>Practice with your own rules. Get points for every correct answer. Unlimited attempts per day.</p>
+      <ion-buttons>
+        <button main block (click)="startPractice()">Start</button>
+      </ion-buttons>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header>
+        Daily challenge
+    </ion-card-header>
+    <ion-card-content>
+      <p *ngIf="daily_status?.dailies_complete < daily_status?.dailies_allowed">
+        {{daily_status?.dailies_allowed-daily_status?.dailies_complete}}/{{daily_status?.dailies_allowed}} challenges remain today.
+        Questions come from chapters 1 through {{daily_status?.daily_chapter}}.
+        Daily challenges are timed. Huge bonuses for doing well!
+      </p>
+      <p *ngIf="daily_status?.dailies_complete >= daily_status?.dailies_allowed">
+        You have already completed today's daily challenges. Please wait until tomorrow!
+      </p>
+      <ion-buttons>
+        <button  *ngIf="daily_status?.dailies_complete < daily_status?.dailies_allowed" main block (click)="startDaily()">Start</button>
+      </ion-buttons>
+    </ion-card-content>
+
+  </ion-card>
+
+</ion-content>

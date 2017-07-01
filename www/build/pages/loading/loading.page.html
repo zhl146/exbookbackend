@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar main>
+    <ion-title>
+      exBook
+    </ion-title>
+
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <div class="spinner" *ngIf="auth.authenticated()">
+    <ion-spinner></ion-spinner>
+  </div>
+
+</ion-content>

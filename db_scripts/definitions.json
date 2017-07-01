@@ -1,0 +1,2634 @@
+{
+  "book": [
+    {
+      "index": 1,
+      "name": "Elements and compounds: the chemist's view of matter",
+      "questions": [
+        {
+          "question_text": "matter",
+          "correct_answers": [
+            "anything that occupies space",
+            "anything that has mass"
+          ],
+          "incorrect_answers": [
+            "things like heat and light",
+            "everything in the world",
+            "things like heat and energy",
+            "anything made from photons"
+          ]
+        },
+        {
+          "question_text": "element",
+          "correct_answers": [
+            "Substance composed of atoms with identical atomic number",
+            "There are around 100 of them on the periodic table",
+            "Pure substance that is very hard to decompose chemically",
+            "Any one thing on the periodic table",
+            "An example of one is lithium",
+            "An example of one is helium",
+            "An example of one is krypton"
+          ],
+          "incorrect_answers": [
+            "Substance composed of more than one kind of atom",
+            "A molecule",
+            "Pure substance that can be physically separated",
+            "A homogeneous mixture",
+            "A compound that is made from only one type of atom",
+            "An example of one is water",
+            "An example of one is air",
+            "An example of adamantite",
+            "An example of one is dilithium",
+            "An example of one is mithril",
+            "An example of one is kryptonite"
+          ]
+        },
+        {
+          "question_text": "compound",
+          "correct_answers": [
+            "Substance composed from two more more different elements",
+            "An example of one is $$NaCl$$",
+            "An example of one is $$HCN$$",
+            "An example of one is $$HCl$$"
+          ],
+          "incorrect_answers": [
+            "Substance composed from two or more atoms",
+            "An example of one is $$H_2$$",
+            "An example of one is $$N_2$$",
+            "An example of one is $$S_8$$",
+            "Substance composed of a metal and a non-metal",
+            "Substance composed only of metals",
+            "Substance composed only of non-metals",
+            "A pure substance composed of at least two atoms"
+          ]
+        },
+        {
+          "question_text": "pure substance",
+          "correct_answers": [
+            "Substance that contains only one kind of element, compound, or molecule",
+            "Substance that cannot be separated into simpler components without chemical change",
+            "Any one thing on the periodic table",
+            "An example is gold",
+            "Pure substances only exist theoretically"
+          ],
+          "incorrect_answers": [
+            "Anything that is the same throughout",
+            "An example is pure air",
+            "An example is bottled water",
+            "An example is pure chocolate",
+            "A substance that has been purified",
+            "An example is stainless steel"
+          ]
+
+        },
+        {
+          "question_text": "mixture",
+          "correct_answers": [
+            "Combination of two or more pure substances",
+            "A substance that can be physically separated into its parts",
+            "An example is steel",
+            "An example is bronze",
+            "An example is brass"
+          ],
+          "incorrect_answers": [
+            "Substance that is made from at least two different atoms",
+            "Substance that is made from at least two different kinds of atoms",
+            "Substance that requires a chemical change to separate",
+            "Substance that cannot be separated into its parts",
+            "An example is copper",
+            "An example is gold",
+            "An example is $$H_2O$$",
+            "An example is $$LiAlH_4$$"
+          ]
+        },
+        {
+          "question_text": "heterogeneous mixture",
+          "correct_answers": [
+            "Sample of matter consisting of more than one pure substance and more than one phase",
+            "Sample of matter that is not the same throughout",
+            "An example is milk",
+            "An example is italian dressing"
+          ],
+          "incorrect_answers": [
+            "Sample of matter that is the same throughout",
+            "Sample of matter consisting of more than one pure substance with properties that do not vary within the sample",
+            "Synonym of solution",
+            "An example is air",
+            "An example is bottled water",
+            "An example is steel",
+            "An example is brass"
+          ]
+        },
+        {
+          "question_text": "homogeneous mixture",
+          "correct_answers": [
+            "Sample of matter that is the same throughout",
+            "Sample of matter consisting of more than one pure substance with properties that do not vary within the sample",
+            "Synonym of solution",
+            "An example is air",
+            "An example is bottled water",
+            "An example is steel",
+            "An example is brass"
+          ],
+          "incorrect_answers": [
+            "Sample of matter consisting of more than one pure substance and more than one phase",
+            "Sample of matter that is not the same throughout",
+            "An example is milk",
+            "An example is italian dressing",
+            "An example is pulpy orange juice",
+            "An example is stew"
+          ]
+        },
+        {
+          "question_text": "solution",
+          "correct_answers": [
+            "Sample of matter that is the same throughout",
+            "Sample of matter consisting of more than one pure substance with properties that do not vary within the sample",
+            "Synonym of homogeneous mixture",
+            "An example is air",
+            "An example is bottled water",
+            "An example is steel",
+            "An example is brass"
+          ],
+          "incorrect_answers": [
+            "Sample of matter consisting of more than one pure substance and more than one phase",
+            "Sample of matter that is not the same throughout",
+            "An example is milk",
+            "An example is italian dressing",
+            "An example is pulpy orange juice",
+            "An example is stew"
+          ]
+        },
+        {
+          "question_text": "atom",
+          "correct_answers": [
+            "Smallest thing something can be and still be an element",
+            "Made of protons, neutrons, and electrons",
+            "Most of its mass comes from protons and neutrons",
+            "Most of its volume comes from electrons"
+          ],
+          "incorrect_answers": [
+            "Contains protons and electrons orbiting a nucleus made of neutrons",
+            "Is the smallest particle",
+            "Most of its volume comes from protons and neutrons",
+            "Most of its mass comes from electrons",
+            "Electrons orbit the nucleus like planets orbit the sun"
+          ]
+        },
+        {
+          "question_text": "periodic table",
+          "correct_answers": [
+            "Arrangement of elements according to increasing atomic number",
+            "Arrangement of elements into periods and groups",
+            "Elements in the same group have similar properties"
+          ],
+          "incorrect_answers": [
+            "Arranged by increasing neutron count",
+            "The number of neutrons is always equal to the atomic number",
+            "It is arranged so that elements in the same period have the similar properties",
+            "Elements in the same period generally have the same number of valence electrons"
+          ]
+        },
+        {
+          "question_text": "chemical formula",
+          "correct_answers": [
+            "Notation that indicates the type and number of atoms in a molecule"
+          ],
+          "incorrect_answers": [
+            "A solution that is created using molecular substances",
+            "A formula or equation that indicates the proper yield",
+            "An equation that shows the proper ratios of products to reactants"
+          ]
+        },
+        {
+          "question_text": "period",
+          "correct_answers": [
+            "Row on the periodic table",
+            "Elements in the same ____ are arranged with consecutively increasing atomic number from left to right"
+          ],
+          "incorrect_answers": [
+            "Elements in the same ____ are arranged with consecutively increasing atomic number from right to left",
+            "Column on the periodic table",
+            "Elements in the same ____ have similar numbers of valence electrons",
+            "The period of time it takes an electron to complete an orbit around the nucleus"
+          ]
+        },
+        {
+          "question_text": "group",
+          "correct_answers": [
+            "Column on the periodic table",
+            "Contains elements on the periodic table that have similar properties",
+            "Contains elements on the periodic table that generally contain the same number of valence electrons"
+          ],
+          "incorrect_answers": [
+            "Row on the periodic table",
+            "Elements in the same ____ are arranged with consecutively increasing atomic number from left to right",
+            "Contains elements on the periodic table with very different properties",
+            "There are only 7 of these on the periodic table"
+          ]
+        },
+        {
+          "question_text": "atomic number",
+          "correct_answers": [
+            "The number of protons in an atomic nucleus",
+            "The number of electrons in a neutral atom"
+          ],
+          "incorrect_answers": [
+            "The number of neutrons in an atomic nucleus",
+            "The number of protons outside the nucleus",
+            "The number of protons plus neutrons",
+            "Should always be zero in a neutral atom",
+            "Is always half of the atomic mass",
+            "Equal to the number of protons and also equal to the number of neutrons in an atom"
+          ]
+        },
+        {
+          "question_text": "subatomic particle",
+          "correct_answers": [
+            "Anything smaller than an atom",
+            "Prime examples are protons, neutrons, and electrons"
+          ],
+          "incorrect_answers": [
+            "Includes electrons, but not protons or neutrons, as they are too large",
+            "Any atom that has a negative charge",
+            "Any atom that has too few neutrons",
+            "Any atomic particle that has too few electrons",
+            "Any atomic particle that has too few protons",
+            "Any atomic particle that has too few neutrons"
+          ]
+        },
+        {
+          "question_text": "proton",
+          "correct_answers": [
+            "Elementary particle found in the atomic nucleus that has a charge",
+            "Positively charged particle found in the atom",
+            "Has a charge equal, but opposite, to that of an electron",
+            "Has a mass about equal to that of a neutron"
+          ],
+          "incorrect_answers": [
+            "Elementary particle found outside the atomic nucleus that has a charge",
+            "Negatively charged particle found in the atom",
+            "Neutrally charged particle found in the atom",
+            "There are always the same number of these as neutrons",
+            "There are always the same number of these as electrons",
+            "Changing the number of these does not change the mass of an atom"
+          ]
+        },
+        {
+          "question_text": "neutron",
+          "correct_answers": [
+            "Elementary particle found in the atomic nucleus that lacks charge",
+            "Neutral particle found in the atom",
+            "Changing these affects the mass of an atom but does not affect the charge",
+            "Has a mass about equal to that of a proton"
+          ],
+          "incorrect_answers": [
+            "There are always the same number of these as protons",
+            "There are always the same number of these as electrons",
+            "Changing the number of these does not affect the mass of an atom",
+            "Has a mass about equal to that of an electron",
+            "A non-charged particle that floats around in an atom"
+          ]
+        },
+        {
+          "question_text": "electron",
+          "correct_answers": [
+            "Elementary particle found outside the nucleus of an atom",
+            "Negatively charged subatomic particle",
+            "Lightest of the three basic subatomic particles",
+            "Has a charge equal, but opposite, to that of an proton",
+            "Elementary particle that forms a cloud outside the nucleus",
+            "Elementary particle that accounts for most of the volume of an atom",
+            "Elementary particle that has a negligible mass relative to a proton or neutron"
+          ],
+          "incorrect_answers": [
+            "Completely massless particle that has a negative charge",
+            "Heaviest of the three basic subatomic particles",
+            "Elementary particle found inside the nucleus of an atom",
+            "Elementary particle that orbits the nucleus like a planet orbits the sun",
+            "Elementary particle that accounts for a very small amount of the volume of an atom"
+          ]
+        },
+        {
+          "question_text": "atomic nucleus",
+          "correct_answers": [
+            "Very dense positive mass at the center of the atom",
+            "Made of protons and neutrons, but not electrons",
+            "Contains almost all of the mass of an atom",
+            "The part of the atom that occupies the least amount of volume"
+          ],
+          "incorrect_answers": [
+            "The part of an atom that accounts for most of the atoms volume",
+            "The neutral part of an atom that contains protons and electrons",
+            "The negatively charged part of an atom that contains protons and neutrons",
+            "The part of an atom that accounts for very little of the atoms mass",
+            "The positively charged part of an atom that contains only protons"
+          ]
+        },
+        {
+          "question_text": "valence electron",
+          "correct_answers": [
+            "Electrons that are generally the most reactive",
+            "Electrons that are generally in the outermost shell of an atom",
+            "Electrons that are generally farthest away from the nucleus"
+          ],
+          "incorrect_answers": [
+            "The least reactive electrons in an atom",
+            "Synonym for core electron",
+            "Electrons that are generally closest to the nucleus",
+            "Generally, elements in the same period have the same number of these kinds of electrons",
+            "A special type of electron that is only found in non-metals",
+            "Electrons that are located outside the nucleus - all other electrons are located inside the nucleus"
+          ]
+        },
+        {
+          "question_text": "core electrons",
+          "correct_answers": [
+            "Electrons that are generally un-reactive",
+            "Electrons that occupy completely filled orbitals",
+            "Electrons that are closest to the nucleus"
+          ],
+          "incorrect_answers": [
+            "Electrons that are located inside the nucleus",
+            "Electrons that are located inside the atomic core",
+            "Electrons that are located farthest from the nucleus",
+            "Electrons that are considered radioactive"
+          ]
+        },
+        {
+          "question_text": "mass number",
+          "correct_answers": [
+            "The number of protons plus neutrons in an atom or ion"
+          ],
+          "incorrect_answers": [
+            "The number associated with the actual mass of an atom",
+            "The mass of an atom that is rounded to the nearest whole number",
+            "The absolute mass of an atom",
+            "The number that is obtained by doubling the atomic number",
+            "The mass of an atom given to two decimal places"
+          ]
+        },
+        {
+          "question_text": "property",
+          "correct_answers": [
+            "General characteristic of a substance that can be used to tell it apart from other substances"
+          ],
+          "incorrect_answers": [
+            "Specifically, the ability of a substance to react with another substance",
+            "The physical characteristics of a sample such as color and density",
+            "A characteristic of a sample that does not tend to change when the sample size is changed",
+            "A ratio of two different experimental values that allows for easier calculations"
+          ]
+        },
+        {
+          "question_text": "physical property",
+          "correct_answers": [
+            "Measurement of this kind of property may change the arrangement, but not the structure, of a substance",
+            "Examples of these are density, color, boiling point, and volume"
+          ],
+          "incorrect_answers": [
+            "Examples of these are toxicity and flammability",
+            "Measurement of this kind of property necessitates a change in the structure of a substance",
+            "Measurement of this kind of property sometimes changes the structure of a substance"
+          ]
+        },
+        {
+          "question_text": "boil",
+          "correct_answers": [
+            "Phase change from liquid to vapor"
+          ],
+          "incorrect_answers": [
+            "Phase change from vapor to liquid",
+            "Is the same as evaporation",
+            "Phase change from solid to vapor",
+            "Phase change from vapor to solid"
+          ]
+        },
+        {
+          "question_text": "chemical property",
+          "correct_answers": [
+            "Measuring this involves a chemical change",
+            "Measurement of this kind of property always results in a change in the structure of a substance",
+            "Examples of these are flammability and toxicity"
+          ],
+          "incorrect_answers": [
+            "Measurement of this kind of property may change the arrangement, but not the structure, of a substance",
+            "Examples of these are density, color, boiling point, and volume",
+            "Measurement of this kind of property never results in a change in the structure of a substance",
+            "Examples of these are mass and weight"
+          ]
+        },
+        {
+          "question_text": "physical change",
+          "correct_answers": [
+            "When something changes form but does not lose its identity",
+            "Does not transform one substance into another",
+            "General category that phase changes fall under",
+            "A good example would be the bending of a metal bar",
+            "A good example would be the boiling of water"
+          ],
+          "incorrect_answers": [
+            "When something changes into something entirely new",
+            "When the atoms of a substance rearrange, dissociate, or recombine",
+            "A chemical equation can be written for this type of change",
+            "A good example would be the frying of an egg"
+          ]
+        },
+        {
+          "question_text": "chemical change",
+          "correct_answers": [
+            "When something changes into something entirely new",
+            "When the atoms of a substance rearrange, dissociate, or recombine",
+            "A chemical equation can be written for this type of change",
+            "A good example would be the frying of an egg"
+          ],
+          "incorrect_answers": [
+            "When something changes form but does not lose its identity",
+            "Does not transform one substance into another",
+            "General category that phase changes fall under",
+            "A good example would be the slicing of watermelon",
+            "A good example would be the evaporation of water"
+          ]
+        },
+        {
+          "question_text": "phase",
+          "correct_answers": [
+            "General word for states of matter including solid, liquid, and gas"
+          ],
+          "incorrect_answers": [
+            "The ability of one substance to pass through another substance",
+            "The ability of a substance to let light through it",
+            "General word for states of matter including solid, liquid, paste, and powder"
+          ]
+        },
+        {
+          "question_text": "solid",
+          "correct_answers": [
+            "State a matter that has a definite shape and volume",
+            "Generally, the most dense state of matter",
+            "A state of matter that is not easily compressible"
+          ],
+          "incorrect_answers": [
+            "State of matter that has a definite volume, but no definite shape",
+            "State of matter that has neither a definite shape nor volume",
+            "Generally, the least dense state of matter"
+          ]
+        },
+        {
+          "question_text": "liquid",
+          "correct_answers": [
+            "State of matter that has a definite volume, but no definite shape",
+            "State of matter that is not easily compressible"
+          ],
+          "incorrect_answers": [
+            "State a matter that has a definite shape and volume",
+            "Generally, the most dense state of matter",
+            "State of matter that has neither a definite shape nor volume",
+            "Generally, the least dense state of matter"
+          ]
+        },
+        {
+          "question_text": "gas",
+          "correct_answers": [
+            "State of matter that has neither a definite shape nor volume",
+            "Generally, the least dense state of matter"
+          ],
+          "incorrect_answers": [
+            "State a matter that has a definite shape and volume",
+            "Generally, the most dense state of matter",
+            "State of matter that has a definite volume, but no definite shape",
+            "State of matter that is not easily compressible"
+          ]
+        },
+        {
+          "question_text": "evaporate",
+          "correct_answers": [
+            "Low energy way to phase change from liquid to vapor"
+          ],
+          "incorrect_answers": [
+            "A synonym for boil",
+            "A phase change from solid to vapor",
+            "A phase change that only occurs above the evaporation temperature",
+            "A phase change that only occurs below the evaporation temperature"
+          ]
+        },
+        {
+          "question_text": "melt",
+          "correct_answers": [
+            "Phase change from solid to liquid"
+          ],
+          "incorrect_answers": [
+            "Phase change from gas to solid",
+            "Phase change from liquid to solid",
+            "Phase change from gas to liquid",
+            "Phase change from liquid to gas",
+            "Phase change from solid to gas"
+          ]
+        },
+        {
+          "question_text": "freeze",
+          "correct_answers": [
+            "Phase change from liquid to solid"
+          ],
+          "incorrect_answers": [
+            "Phase change from gas to solid",
+            "Phase change from gas to liquid",
+            "Phase change from liquid to gas",
+            "Phase change from solid to gas",
+            "Phase change from solid to liquid"
+          ]
+        },
+        {
+          "question_text": "condense",
+          "correct_answers": [
+            "Phase change from vapor to liquid"
+          ],
+          "incorrect_answers": [
+            "Phase change from gas to solid",
+            "Phase change from liquid to gas",
+            "Phase change from solid to gas",
+            "Phase change from solid to liquid",
+            "Phase change from liquid to solid"
+          ]
+        },
+        {
+          "question_text": "sublime",
+          "correct_answers": [
+            "Phase change from solid to gas"
+          ],
+          "incorrect_answers": [
+            "Phase change from gas to solid",
+            "Phase change from liquid to gas",
+            "Phase change from solid to liquid",
+            "Phase change from liquid to solid",
+            "Phase change from gas to liquid"
+          ]
+        },
+        {
+          "question_text": "deposit",
+          "correct_answers": [
+            "Phase change from gas to solid"
+          ],
+          "incorrect_answers": [
+            "Phase change from liquid to gas",
+            "Phase change from solid to gas",
+            "Phase change from solid to liquid",
+            "Phase change from liquid to solid",
+            "Phase change from gas to liquid"
+          ]
+        },
+        {
+          "question_text": "periodic law",
+          "correct_answers": [
+            "States that elements in the same group on the periodic table have similar properties",
+            "States that physical and chemical properties of the elements occur in a regular way according to atomic number"
+          ],
+          "incorrect_answers": [
+            "States that the number of protons, neutrons, and electrons are always present in equal amount in a neutral atom",
+            "States that elements in the same period on the periodic table have similar properties",
+            "States that the periodic table is the only proper way to organize the elements",
+            "State that the half-lives of elements are governed by the number of protons in a representative atom"
+
+          ]
+        },
+        {
+          "question_text": "representative element",
+          "correct_answers": [
+            "The first two and last six columns on the periodic table",
+            "The most \"regular\" species on the periodic table",
+            "Element that is easy to count valence electrons for"
+          ],
+          "incorrect_answers": [
+            "Element located in the middle of the periodic table",
+            "Element that is hard to count valence electrons for that are in the middle of the periodic table",
+            "Elements located below the periodic table",
+            "Elements that have similar numbers of valence electrons",
+            "Elements that have no valence electrons",
+            "Elements that only have valence electrons"
+          ]
+        },
+        {
+          "question_text": "transition element",
+          "correct_answers": [
+            "Element located in the middle of the periodic table",
+            "Element that is hard to count valence electrons for that are in the middle of the periodic table"
+          ],
+          "incorrect_answers": [
+            "Elements located below the periodic table",
+            "Elements that have similar numbers of valence electrons",
+            "Elements that have no valence electrons",
+            "Elements that only have valence electrons",
+            "Elements that are in the middle of a transition between phases",
+            "Elements that are in the middle of a transition between being a metal and a non-metal",
+            "Another word for an element that is a semi-metal"
+          ]
+        },
+        {
+          "question_text": "inner transition element",
+          "correct_answers": [
+            "Element that is found under the periodic table"
+          ],
+          "incorrect_answers": [
+            "Elements that have similar numbers of valence electrons",
+            "Elements that have no valence electrons",
+            "Elements that only have valence electrons",
+            "Elements that are located in the middle two groups of the transition elements",
+            "Elements whose electrons are in the middle of transitioning between core and valence status",
+            "Elements whose inner core electrons are always transitioning"
+          ]
+        },
+        {
+          "question_text": "metal",
+          "correct_answers": [
+            "Substance that conducts heat and electricity",
+            "Substance that is malleable, is shiny, and reflects many colors of light",
+            "Lose electrons readily to form positively charged ions",
+            "Element that is generally found on the left of the periodic table"
+          ],
+          "incorrect_answers": [
+            "Element that is generally found on the right of the periodic table",
+            "Substance that does not conduct heat and electricity well",
+            "Elements that gain electrons easily to form negatively charged ions",
+            "Elements that tend to neither gain nor lose electrons"
+          ]
+        },
+        {
+          "question_text": "non-metal",
+          "correct_answers": [
+            "Element that is generally found on the right of the periodic table",
+            "Substance that does not conduct heat and electricity well",
+            "Gains electrons easily to form negatively charged ions"
+          ],
+          "incorrect_answers": [
+            "Substance that conducts heat and electricity",
+            "Substance that is malleable, is shiny, and reflects many colors of light",
+            "Lose electrons readily to form positively charged ions",
+            "Element that is generally found on the left of the periodic table"
+          ]
+        },
+        {
+          "question_text": "semi-metal",
+          "correct_answers": [
+            "Element that has both metallic and non-metallic properties"
+          ],
+          "incorrect_answers": [
+            "An element that is created by mixing atoms of metal and non-metal character",
+            "A compound that is created by mixing a metal and a non-metal",
+            "An element that transitions between being a metal and a non-metal",
+            "A compound that has both metallic and non-metallic properties"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "quantitative properties of matter",
+      "questions": [
+        {
+          "question_text": "quantitative property",
+          "correct_answers": [
+            "Type of property that is able to be measured and expressed with numbers",
+            "Examples of this type of property include mass, volume, and temperature"
+          ],
+          "incorrect_answers": [
+            "Type of property that does not need to have a number associated with it",
+            "Type of property that describes the amount of matter present",
+            "Type of property that deals with the quantum nature of subatomic particles",
+            "Type of property that deals with quantization of energy",
+            "Examples of this type of property include color, smell, and texture"
+          ]
+        },
+        {
+          "question_text": "qualitative property",
+          "correct_answers": [
+            "Type of property that does not need to have a number associated with it",
+            "Examples of this type of property include color, smell, and texture"
+          ],
+          "incorrect_answers": [
+            "Type of property that is able to be measured and expressed with numbers",
+            "Examples of this type of property include mass, volume, and temperature",
+            "Type of property that describes the purity of a substance",
+            "Type of property that describes the quality of a sample",
+            "Type of property that qualifies a sample to be studied"
+          ]
+        },
+        {
+          "question_text": "intensive property",
+          "correct_answers": [
+            "A property that does not depend on the size of the sample",
+            "A property that doesn't change no matter how much of a substance is in the sample",
+            "Properties like temperature, density, and color"
+          ],
+          "incorrect_answers": [
+            "A property that depends on the size of the sample",
+            "A property that changes depending on how much of a substance is in the sample",
+            "Properties like mass, volume, and distance",
+            "A property that describes how intense a beam of light is"
+          ]
+        },
+        {
+          "question_text": "extensive property",
+          "correct_answers": [
+            "A property that depends on the size of the sample",
+            "A property that changes depending on how much of a substance is in the sample",
+            "Properties like mass, volume, and distance"
+          ],
+          "incorrect_answers": [
+            "A property that does not depend on the size of the sample",
+            "A property that doesn't change no matter how much of a substance is in the sample",
+            "Properties like temperature, density, and color",
+            "A property that describes how extensive the contamination of an impurity is"
+          ]
+        },
+        {
+          "question_text": "metric system",
+          "correct_answers": [
+            "A unit system that uses prefixes like kilo, milli, and centi in front of units",
+            "A unit system that uses prefixes that stand for different powers of ten"
+          ],
+          "incorrect_answers": [
+            "A synonym for the international system of units",
+            "Any unit system that uses the meter as a base unit of length",
+            "Any unit system that uses suffixes that stand for different powers of ten",
+            "Any unit system that uses base units to define different power of ten",
+            "An international unit system that can only be used to describe lengths and volumes"
+          ]
+        },
+        {
+          "question_text": "mass",
+          "correct_answers": [
+            "Measure of how much matter is present",
+            "Measure of how much \"stuff\" is in something that does not depend on gravity",
+            "Measurements of this will be the same on earth as on the moon",
+            "Can be measured on a scale"
+          ],
+          "incorrect_answers": [
+            "Measure of how much matter is present as it is pulled on by gravity",
+            "Measurements of this will not be the same on the moon as on earth",
+            "A property that everything has",
+            "Cannot be measured on a scale",
+            "Larger things will always have a larger value"
+          ]
+        },
+        {
+          "question_text": "weight",
+          "correct_answers": [
+            "Measure of how much matter is present as it is pulled on by gravity",
+            "Measure of how much \"stuff\" is in something that depends on gravity",
+            "Measure of how much matter is present"
+          ],
+          "incorrect_answers": [
+            "Measure of how much \"stuff\" is in something that does not depend on gravity",
+            "Measurements of this will be the same on earth as on the moon",
+            "Larger things will always have a larger value"
+          ]
+        },
+        {
+          "question_text": "temperature",
+          "correct_answers": [
+            "Measure of how hot or cold a substance is",
+            "Measure of the average kinetic energy of a sample",
+            "Is an intensive property"
+          ],
+          "incorrect_answers": [
+            "Measure of the absolute energy of a sample",
+            "Measure of the heat in a sample",
+            "Is an extensive property",
+            "Measure of the kinetic energy of a sample"
+          ]
+        },
+        {
+          "question_text": "kinetic energy",
+          "correct_answers": [
+            "Energy associated with the movement of atoms and molecules"
+          ],
+          "incorrect_answers": [
+            "Energy associated with chemical bonds",
+            "Energy associated with position",
+            "Energy associated with stationary objects"
+          ]
+        },
+        {
+          "question_text": "potential energy",
+          "correct_answers": [
+            "Energy associated with position",
+            "Energy associated with stationary objects",
+            "Energy associated with bonds"
+          ],
+          "incorrect_answers": [
+            "Energy associated with the movement of atoms and molecules",
+            "Energy associated with the vibration of bonds",
+            "Energy associated with random collisions"
+          ]
+        },
+        {
+          "question_text": "macroscopic representation",
+          "correct_answers": [
+            "Description of a system using your senses",
+            "An example of this would be a drawing of ice cubes"
+          ],
+          "incorrect_answers": [
+            "The perfect drawing of a complicated system",
+            "An example of this would be an image produced by a scanning tunnelling microscope",
+            "An example of this would be a chemical formula"
+          ]
+        },
+        {
+          "question_text": "symbolic representation",
+          "correct_answers": [
+            "An example of this would be a chemical formula"
+          ],
+          "incorrect_answers": [
+            "The perfect drawing of a complicated system",
+            "An example of this would be an image produced by a scanning tunnelling microscope",
+            "An example of this would be a drawing of ice cubes"
+          ]
+        },
+        {
+          "question_text": "particulate representation",
+          "correct_answers": [
+            "Description of a system at the atomic or molecular level"
+          ],
+          "incorrect_answers": [
+            "The perfect drawing of a complicated system",
+            "An example of this would be a chemical formula",
+            "An example of this would be a drawing of ice cubes"
+          ]
+        },
+        {
+          "question_text": "melting temperature",
+          "correct_answers": [
+            "A synonym for freezing temperature",
+            "The temperature at which a substance melts",
+            "The temperature at which a substance freezes",
+            "A substance will be both a liquid and a solid at this temperature",
+            "The temperature that marks the line between the liquid and solid phases"
+          ],
+          "incorrect_answers": [
+            "The temperature at which a substance boils",
+            "A substance will be a solid above this temperature",
+            "A substance will be a liquid below this temperature",
+            "A substance will be a liquid at this temperature",
+            "A substance will be a solid at this temperature"
+          ]
+        },
+        {
+          "question_text": "freezing temperature",
+          "correct_answers": [
+            "A synonym for melting temperature",
+            "The temperature at which a substance freezes",
+            "The temperature at which a substance melts",
+            "A substance will be both a liquid and a solid at this temperature",
+            "The temperature that marks the line between the liquid and solid phases"
+          ],
+          "incorrect_answers": [
+            "The temperature at which a substance boils",
+            "A substance will be a solid above this temperature",
+            "A substance will be a liquid below this temperature",
+            "A substance will be a liquid at this temperature",
+            "A substance will be a solid at this temperature"
+          ]
+        },
+        {
+          "question_text": "boiling temperature",
+          "correct_answers": [
+            "The temperature that marks the line between the liquid and vapor phases",
+            "The temperature at which a substance condenses",
+            "A substance will be both a liquid and a vapor at this temperature"
+          ],
+          "incorrect_answers": [
+            "A substance will be a vapor below this temperature",
+            "A substance will be a liquid above this temperature",
+            "A substance will be a liquid at this temperature",
+            "A substance will be a vapor at this temperature"
+          ]
+        },
+        {
+          "question_text": "vapor",
+          "correct_answers": [
+            "The gas formed by the evaporation or boiling of a substance"
+          ],
+          "incorrect_answers": [
+            "There is only vapor present when a liquid is above the boiling temperature",
+            "There is only vapor present when a liquid is below the boiling temperature",
+            "The gas formed by the boiling of a substance",
+            "The gas formed by the evaporation of a substance"
+          ]
+        },
+        {
+          "question_text": "normal boiling point",
+          "correct_answers": [
+            "The temperature at which a substance boils at sea level"
+          ],
+          "incorrect_answers": [
+            "The temperature at which 1 kilogram of a substance boils",
+            "The temperature at which 1 gram of a substance boils",
+            "The temperature at which a substance boils on earth"
+          ]
+        },
+        {
+          "question_text": "physical constants",
+          "correct_answers": [
+            "Properties that are constant under specific conditions"
+          ],
+          "incorrect_answers": [
+            "Physical properties that are always constant",
+            "Properties of the physical world that never change",
+            "Numbers that we memorize and use in calculations"
+          ]
+        },
+        {
+          "question_text": "meaningful measurement",
+          "correct_answers": [
+            "Measurement that helps to answer the question at hand"
+          ],
+          "incorrect_answers": [
+            "A measurement that has the proper number of significant figures",
+            "A measurement that makes sense",
+            "A measurement that has statistical significance"
+          ]
+        },
+        {
+          "question_text": "accurate",
+          "correct_answers": [
+            "A measurement that is close to the accepted value"
+          ],
+          "incorrect_answers": [
+            "A measurement that is similar to the other measurements of the same set",
+            "A measurement that is consistent",
+            "A measurement that lacks random error",
+            "A measurement that lacks systematic error"
+          ]
+        },
+        {
+          "question_text": "precise",
+          "correct_answers": [
+            "A measurement that is consistent with other measurements from the same set"
+          ],
+          "incorrect_answers": [
+            "A measurement that is close to the accepted value",
+            "A measurement that is correct",
+            "A measurement that lacks random error",
+            "A measurement that lacks systematic error"
+          ]
+        },
+        {
+          "question_text": "exact number",
+          "correct_answers": [
+            "A number that comes from a discretely counted measurement",
+            "A number that is purely theoretical"
+          ],
+          "incorrect_answers": [
+            "A number that has many significant figures",
+            "A number that has no significant figures",
+            "A number with that least ten significant figures",
+            "Any well-measured number"
+          ]
+        },
+        {
+          "question_text": "estimated number",
+          "correct_answers": [
+            "Any number that come from a measurement (not counting)",
+            "A number with a set number of significant figures"
+          ],
+          "incorrect_answers": [
+            "A wild guess",
+            "An educated guess",
+            "A number with no significant figures",
+            "A calculated number"
+          ]
+        },
+        {
+          "question_text": "accuracy",
+          "correct_answers": [
+            "Measure of how close a set of values are to the correct value",
+            "Measure of how correct a set of values are"
+          ],
+          "incorrect_answers": [
+            "Measure of how consistently spaced a set of measurements are",
+            "The best criterion to use when judging how good a set of values is",
+            "Measure of the range of a set of measurements"
+          ]
+        },
+        {
+          "question_text": "precision",
+          "correct_answers": [
+            "Measure of how closely spaced a set of values are",
+            "Measure of how consistent a set of values are"
+          ],
+          "incorrect_answers": [
+            "Measure of how close a set of values are to the correct value",
+            "Measure of the standard deviation of a range of numbers",
+            "Measure of how many significant figures are in a number"
+          ]
+        },
+        {
+          "question_text": "measured number",
+          "correct_answers": [
+            "Any number that is obtained by conducting an experiment with an instrument",
+            "A physical value that has finite significant figures"
+          ],
+          "incorrect_answers": [
+            "A number that has infinite significant figures",
+            "Any calculated number",
+            "Any number",
+            "Any theoretical number",
+            "A number that is within statistical bounds"
+          ]
+        },
+        {
+          "question_text": "random error",
+          "correct_answers": [
+            "Normal fluctuations in a set of experimental values due to chance",
+            "Errors in a set of experimental values that are inconsistent and hard to account for"
+          ],
+          "incorrect_answers": [
+            "An error that can be calibrated against",
+            "The human error in a single experiment",
+            "Unpredictable errors in a single experiment",
+            "An example of this is when a thermometer always reads 2 degrees too high",
+            "Can be removed by buying a new instrument"
+          ]
+        },
+        {
+          "question_text": "systematic error",
+          "correct_answers": [
+            "Consistent fluctuations in experimental values that are due to errors in the experiment",
+            "Error that is consistent and easy to calibrate",
+            "An example of this is when a thermometer always reads 2 degrees too high",
+            "A high amount of this can still result in a high precision for the set of experiments"
+          ],
+          "incorrect_answers": [
+            "Errors in a set of experimental values that are inconsistent and hard to account for",
+            "An example of this is when an experiment is repeated 10 times and half of the results are slightly high",
+            "Can be removed by buying a new instrument",
+            "Can be removed by doing the experiment more carefully"
+          ]
+        },
+        {
+          "question_text": "significant figures",
+          "correct_answers": [
+            "All of the numbers that are certain in a measurement plus one estimated number",
+            "System of reporting measured numbers to best convey the confidence in those numbers",
+            "Controlled by the quality of the experiment"
+          ],
+          "incorrect_answers": [
+            "Controlled by the number of decimal places that are are recorded",
+            "Only include the numbers that we are sure about",
+            "There should always be at least two significant figures in a good measurement",
+            "Never include zeros"
+          ]
+        },
+        {
+          "question_text": "trailing zero",
+          "correct_answers": [
+            "A zero at the end of a measured number",
+            "A zero that is sometimes significant"
+          ],
+          "incorrect_answers": [
+            "A zero that is always significant",
+            "A zero that is never significant",
+            "A zero that must follow a decimal point at the end of a number",
+            "A zero that must not follow a decimal point at the end of a number"
+          ]
+        },
+        {
+          "question_text": "leading zero",
+          "correct_answers": [
+            "A zero that is a placeholder at the beginning of a number",
+            "A zero that is never significant"
+          ],
+          "incorrect_answers": [
+            "A zero that is always significant",
+            "A zero that is sometimes significant",
+            "A zero that must be placed before a decimal point at the beginning of a number",
+            "A zero that must be placed after a decimal point at the beginning of a number"
+          ]
+        },
+        {
+          "question_text": "scientific notation",
+          "correct_answers": [
+            "A system of writing a number using powers of 10",
+            "You should probably use this way to write your number if you have many leading or trailing zeros",
+            "A system of writing numbers that have a single digit in front of a decimal place multiplied by a power of ten"
+          ],
+          "incorrect_answers": [
+            "A system of writing numbers using the metric system",
+            "A system of writing numbers when converting between two different units",
+            "A system on writing numbers that is synonymous with significant figures",
+            "The only proper way to express the amount of significant figures in a measured number"
+          ]
+        },
+        {
+          "question_text": "conversion factor",
+          "correct_answers": [
+            "A ratio of numbers with different units on top and bottom",
+            "A fraction that relates one kind of unit to another kind of unit",
+            "Something you can use to change a number from one unit to another"
+          ],
+          "incorrect_answers": [
+            "Can be derived from unit inequalities",
+            "A unit-less ratio of one number to another number",
+            "Consists of a fraction where the numerator is unit-less and the denominator has a unit",
+            "Consists of a fraction where the numerator has a unit and the denominator is unit-less",
+            "The unit that you want is always on the top and the unit that will be cancelled is always on the bottom"
+          ]
+        },
+        {
+          "question_text": "metric prefix",
+          "correct_answers": [
+            "A prefix that you add the beginning of a unit to stand for how many powers of 10 it should be multiplied by"
+          ],
+          "incorrect_answers": [
+            "A prefix added to the beginning of a unit to stand for any multiplicative factor",
+            "A prefix added to the beginning of a value to stand for how many powers of 10 it should be multitplied by",
+            "A prefix that defines the base unit that should be used",
+            "A prefix that can only be used with units of length, volume, and mass"
+          ]
+        },
+        {
+          "question_text": "order of magnitude",
+          "correct_answers": [
+            "The power of 10 of a number when written in scientific notation",
+            "Roughly how big or small a number is"
+          ],
+          "incorrect_answers": [
+            "A measure of how important a number is",
+            "A logarithmic scale used to compare different numbers",
+            "A classification of numbers according to their position in a series"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Chemical substances and lewis structures",
+      "questions": [
+        {
+          "question_text": "molecule",
+          "correct_answers": [
+            "Combination of a specific number and kind of atoms held in a specific arrangement that cannot be broken down without creating different substances",
+            "A compound that contains only non-metals OR a set of atoms of the same element that are bound together",
+            "A compound that does not contain metals OR a set of atoms of the same element that are bound together",
+            "An example is $$H_2$$",
+            "An example is $$S_8$$",
+            "An example is $$H_2SO_4$$"
+          ],
+          "incorrect_answers": [
+            "An example is $$NaCl$$",
+            "An example is $$KNO_3$$",
+            "Must be a compound",
+            "Must contain at least one metal",
+            "Combination of a specific number and kind of atoms that cannot be broken down without creating a different substance",
+            "An example is $$LiAlH_4$$"
+          ]
+        },
+        {
+          "question_text": "molecular substance",
+          "correct_answers": [
+            "A substance that is normally found with its atoms held in a specific arrangement that cannot be broken down without creating a different substance"
+          ],
+          "incorrect_answers": [
+            "A substance that is normally found as a pure compound",
+            "A substance that is entirely composed of the same kind of element",
+            "Another word for polyatomic ion",
+            "A substance consisting of molecules that contain metals"
+          ]
+        },
+        {
+          "question_text": "homonuclear diatomic molecule",
+          "correct_answers": [
+            "Made up of only two atoms of the same element bonded together",
+            "Have No Fear Of Ice CoLd BeeR"
+          ],
+          "incorrect_answers": [
+            "Made entirely of atoms of the same type",
+            "Made from a metal and non-metal bonded together",
+            "Made from atoms that each have two nuclei",
+            "A compound that is made from two atoms of the same element bonded together"
+          ]
+        },
+        {
+          "question_text": "nomenclature",
+          "correct_answers": [
+            "Any systematic way of naming things"
+          ],
+          "incorrect_answers": [
+            "The IUPAC standard of naming",
+            "A system of naming that stems from being able to name discoveries after the scientists that discovered them",
+            "A system of naming that generates a random numerical index to each new discovery"
+          ]
+        },
+        {
+          "question_text": "systematic name",
+          "correct_answers": [
+            "Name that arises from a set of specific rules",
+            "An example of this is dihydrogen oxide"
+          ],
+          "incorrect_answers": [
+            "An example of this is water",
+            "An example of this is disodium oxide",
+            "Any commonly accepted name",
+            "An example of this is carbon oxygen",
+            "An example of this is ammonia"
+          ]
+        },
+        {
+          "question_text": "trivial name",
+          "correct_answers": [
+            "An accepted name that people randomly came up with that are sometimes used to refer to specific compounds",
+            "An example of this is water",
+            "An example of this ammonia"
+          ],
+          "incorrect_answers": [
+            "An example of this is disodium oxide",
+            "An example of this is carbon dioxide",
+            "Any name that you can come up with to refer to specific compounds",
+            "An example is sulfur tetrafluoride"
+          ]
+        },
+        {
+          "question_text": "binary molecular compound",
+          "correct_answers": [
+            "A molecule that is made up of only two kinds of atoms",
+            "A compound that is made of exactly two non-metal atoms"
+          ],
+          "incorrect_answers": [
+            "A compound that is made up of only two kinds of atoms",
+            "A compound that is a combination of a metal and a non-metal",
+            "A molecule that is a combination of a metal and a non-metal",
+            "A molecule that is made up of at least two atoms",
+            "A molecule that is made up of exactly two atoms",
+            "A compound that is made up of exactly two atoms",
+            "A compound that is made up of exactly two metal atoms"
+          ]
+        },
+        {
+          "question_text": "chemical bond",
+          "correct_answers": [
+            "These can be split roughly into covalent and ionic",
+            "The way that atoms are connected to one another",
+            "A relatively strong attraction between two different atoms"
+          ],
+          "incorrect_answers": [
+            "The attractive force between a proton and an electron",
+            "The attractive force that holds an atom together",
+            "Any force that attracts two atoms",
+            "The attractive force between the electrons of one atom and the electrons of another atom"
+          ]
+        },
+        {
+          "question_text": "lewis dot",
+          "correct_answers": [
+            "A way to represent a valence electron"
+          ],
+          "incorrect_answers": [
+            "A way to represent a core electron",
+            "A way to represent an atom",
+            "A way to represent a bond",
+            "A way to represent a radical",
+            "A way to represent a bonding pair",
+            "A way to represent a lone pair"
+          ]
+        },
+        {
+          "question_text": "lewis structure",
+          "correct_answers": [
+            "A simplified way to draw things at an atomic or molecular level",
+            "A way to visualize the arrangements of atoms in a molecule"
+          ],
+          "incorrect_answers": [
+            "A drawing of a molecule that indicates three dimensional shape",
+            "An detailed representation of a molecule",
+            "A symbolic representation of a molecule",
+            "A macroscopic representation of a molecule",
+            "A drawing that keeps track of all the electrons in a molecule"
+          ]
+        },
+        {
+          "question_text": "ion",
+          "correct_answers": [
+            "An atom that has different numbers of protons and electrons",
+            "An atom that has gained a charge",
+            "An atom that has lost or gained an electron"
+          ],
+          "incorrect_answers": [
+            "An atom that has gained a proton",
+            "An atom that has gained a neutron",
+            "An atom that has equal numbers of protons and neutrons",
+            "An atom that has equal numbers of protons and electrons",
+            "An atom that has equal numbers of neutrons and electrons",
+            "An atom that has lost a proton",
+            "An atom that has lost a neutron"
+          ]
+        },
+        {
+          "question_text": "anion",
+          "correct_answers": [
+            "An atom that has gained a negative charge",
+            "An atom that has gained electrons",
+            "An atom that has more electrons than protons"
+          ],
+          "incorrect_answers": [
+            "An atom that has gained a proton",
+            "An atom that has gained a neutron",
+            "An atom that has equal numbers of protons and neutrons",
+            "An atom that has equal numbers of protons and electrons",
+            "An atom that has equal numbers of neutrons and electrons",
+            "An atom that has lost a proton",
+            "An atom that has lost a neutron"
+          ]
+        },
+        {
+          "question_text": "cation",
+          "correct_answers": [
+            "An atom that has gained a positive charge",
+            "An atom that has lost electrons",
+            "An atom that has more protons than electrons"
+          ],
+          "incorrect_answers": [
+            "An atom that has gained a proton",
+            "An atom that has gained a neutron",
+            "An atom that has equal numbers of protons and neutrons",
+            "An atom that has equal numbers of protons and electrons",
+            "An atom that has equal numbers of neutrons and electrons",
+            "An atom that has lost a proton",
+            "An atom that has lost a neutron"
+          ]
+        },
+        {
+          "question_text": "octet rule",
+          "correct_answers": [
+            "The tendency for atoms to want 8 valence electrons"
+          ],
+          "incorrect_answers": [
+            "The tendency for atoms to want to make 8 covalent bonds",
+            "The tendency for atoms to want to make 8 ionic bonds",
+            "The tendency for atoms to want to make 8 bonds, no matter the type",
+            "The tendency for atoms to want 8 core electrons",
+            "The tendency for atoms to want to lose electrons to get to 8 valence electrons",
+            "The tendency for atoms to want to gain electrons to get to 8 valence electrons"
+          ]
+        },
+        {
+          "question_text": "bonding pair",
+          "correct_answers": [
+            "The valence electrons that make up a covalent bond",
+            "A pair of electrons that are sometimes represented as a line in a lewis structure",
+            "Two dots on a lewis structure located between two atoms and represent valence electrons",
+            "The line on a lewis structure that connects two atoms and represent valence electrons"
+          ],
+          "incorrect_answers": [
+            "Two dots on a lewis structure that does not appear between two atoms",
+            "Two dots on a lewis structure that represents a double bond",
+            "A pair of dots on a lewis structure that is sometimes circled for clarity",
+            "A pair of dots on a lewis structure that is never connected with a line",
+            "Two dots on a lewis structure that are located between two atoms and represent core electrons",
+            "Two dots on a lewis structure that does not appear between and atoms that represent core electrons"
+          ]
+        },
+        {
+          "question_text": "lone pair electrons",
+          "correct_answers": [
+            "2 valence electrons that are not participating in a bond",
+            "2 dots that are not between two atoms on a lewis structure",
+            "A pair of electrons that are not participating in a bond"
+          ],
+          "incorrect_answers": [
+            "The valence electrons that make up a covalent bond",
+            "A pair of electrons that are sometimes represented as a line in a lewis structure",
+            "The core electrons that make up a covalent bond",
+            "The core electrons that are drawn on a lewis structure, but do not participate in bonding",
+            "The pairs of electrons that are optionally drawn on a lewis structure"
+          ]
+        },
+        {
+          "question_text": "covalent bond",
+          "correct_answers": [
+            "An interaction that occurs when two atoms share a pair of valence electrons",
+            "The interaction that is represented by a line in a lewis structure"
+          ],
+          "incorrect_answers": [
+            "An interaction that occurs when two atoms exchange a pair of valence electrons",
+            "An interaction that occurs between two molecules that are attracted to one another",
+            "An interaction that occurs when two molecules share a pair of core electrons",
+            "An interaction that occurs when two atoms share a pair of core electrons",
+            "An interaction that is represented by a dashed line on a lewis structure"
+          ]
+        },
+        {
+          "question_text": "polyatomic ion",
+          "correct_answers": [
+            "A cluster of covalently bonded atoms that results in a charged species",
+            "An ion that contains multiple, different atoms"
+          ],
+          "incorrect_answers": [
+            "A cluster of ionically bonded atoms that has a charge",
+            "A cluster of ions",
+            "A molecule that has an absolute charge of at least 2",
+            "An ionic compound that has a charge"
+          ]
+        },
+        {
+          "question_text":"binary diatomic compound",
+          "correct_answers": [
+            "A compound that is made up of exactly two different atoms"
+          ],
+          "incorrect_answers": [
+            "A compound that is made up of exactly two of the same kind of atom",
+            "A compound that is made up of exactly two non-metals",
+            "A compound that is made up of exactly two metals",
+            "A compound that is made up of exactly one metal and one non-metal",
+            "A compound that is made up of at least two different kinds of atoms"
+          ]
+        },
+        {
+          "question_text": "resonance structures",
+          "correct_answers": [
+            "The set of Lewis structures drawn for the same molecule that only differ by electron location and not atomic structure"
+          ],
+          "incorrect_answers": [
+            "Two different molecules that resonate with one another",
+            "Two lewis structures that a molecule switches between randomly",
+            "The set of lewis structures that you can find a molecule in at any given time",
+            "The set of lewis structures drawn for two different molecules that are linked by resonant electrons",
+            "The set of lewis structures drawn the isomers of the same molecule that differ only by bond location"
+          ]
+        },
+        {
+          "question_text": "octet expansion",
+          "correct_answers": [
+            "A theory that explains why some atoms can make more than 4 bonds",
+            "A theory that explains how some atoms can have more than 8 valence electrons"
+          ],
+          "incorrect_answers": [
+            "A theory that allows an atom expand its bonding capacity to 8",
+            "A theory that allows atoms to lose more than 8 electrons in order to make more ionic bonds",
+            "A theory that allows for the possibility of any atom to expand its octet to higher than 8 valence electrons",
+            "A theory that explains how some atoms can have more than 8 core electrons"
+          ]
+        },
+        {
+          "question_text": "radical",
+          "correct_answers": [
+            "An atom or molecule that contains an odd number of electrons",
+            "An atom or molecule that contains a valence electron that is not part of a lone pair or bond",
+            "An atom of molecule that is highly reactive due to having an unpaired electron"
+          ],
+          "incorrect_answers": [
+            "An atom or molecule that is extremely un-reactive",
+            "An atom or molecule that behaves differently from the other atoms or molecules in a bulk solid",
+            "An atom or molecule that is highly reactive due to too many core electrons",
+            "An atom or molecule that is highly reactive due to having too few valance electrons"
+          ]
+        },
+        {
+          "question_text": "principle of charge balance",
+          "correct_answers": [
+            "States that charges in an ionic compound must add up to zero"
+          ],
+          "incorrect_answers": [
+            "States that if you gain a proton, you must also gain an electron",
+            "States that if you gain a proton, you must also lose an electron",
+            "States that if you lose an electron, you must also lose a proton to compensate",
+            "States that if you gain an electron, you must also gain a proton to compensate",
+            "States that an atom must always have the same number of protons and electrons",
+            "States that an atom must always have the same number of neutrons and protons"
+          ]
+        },
+        {
+          "question_text": "charge",
+          "correct_answers": [
+            "Number of protons plus number of electrons"
+          ],
+          "incorrect_answers": [
+            "The energy that is built up from atoms colliding with each other",
+            "The energy that is stored up in electrons",
+            "The energy that is stored up from the interaction between protons and electrons",
+            "The number of protons plus electrons minus neutrons",
+            "The number of neutrons minus protons and electrons",
+            "The ability for an atom to store energy"
+          ]
+        },
+        {
+          "question_text": "nitrate ion",
+          "correct_answers": [
+            "$$NO_3^-$$",
+            "-1 charge"
+          ],
+          "incorrect_answers": [
+            "$$NO_2^-$$",
+            "$$NO_2^{2-}$$",
+            "$$NO_3^{2-}$$",
+            "$$NO_4^-$$",
+            "$$NO_3^+$$",
+            "$$NH_4^+$$",
+            "-2 charge",
+            "+1 charge",
+            "+2 charge"
+          ]
+        },
+        {
+          "question_text": "nitrite ion",
+          "correct_answers": [
+            "$$NO_2^-$$",
+            "-1 charge"
+          ],
+          "incorrect_answers": [
+            "$$NO_3^-$$",
+            "$$NO_2^{2-}$$",
+            "$$NO_3^{2-}$$",
+            "$$NO_4^-$$",
+            "$$NO_3^+$$",
+            "$$NO_2^+$$",
+            "$$NH_4^+$$",
+            "-2 charge",
+            "+1 charge",
+            "+2 charge"
+          ]
+        }
+      ,
+        {
+          "question_text": "ammonium ion",
+          "correct_answers": [
+            "$$NH_4^+$$",
+            "+1 charge"
+          ],
+          "incorrect_answers": [
+            "$$NO_3^-$$",
+            "$$NO_2^{2-}$$",
+            "$$NO_3^{2-}$$",
+            "$$NO_4^-$$",
+            "$$NO_3^+$$",
+            "$$NO_2^+$$",
+            "$$NH_4^-$$",
+            "-1 charge",
+            "-2 charge",
+            "+2 charge"
+
+          ]
+        }
+      ,
+        {
+          "question_text": "sulfate ion",
+          "correct_answers": [
+            "$$SO_4^{2-}$$",
+            "-2 charge"
+          ],
+          "incorrect_answers": [
+            "$$SO_4^{3-}$$",
+            "$$SO_4^{1-}$$",
+            "$$SO_3^{2-}$$",
+            "$$SO_3^{1-}$$",
+            "$$HSO_4^-$$",
+            "$$SO_3^+$$",
+            "$$SO_3^{2+}$$",
+            "$$H_2SO_3^-$$",
+            "+2 charge",
+            "+1 charge",
+            "-1 charge",
+            "-3 charge"
+
+          ]
+        }
+      ,
+        {
+          "question_text": "sulfite ion",
+          "correct_answers": [
+            "$$SO_3^{2-}$$",
+            "-2 charge"
+          ],
+          "incorrect_answers": [
+            "$$SO_4^{3-}$$",
+            "$$SO_4^{1-}$$",
+            "$$SO_3^{1-}$$",
+            "$$HSO_4^-$$",
+            "$$SO_3^+$$",
+            "$$SO_3^{2+}$$",
+            "$$H_2SO_3^-$$",
+            "$$SO_4^{2-}$$",
+            "+2 charge",
+            "+1 charge",
+            "-1 charge",
+            "-3 charge"
+          ]
+        }
+      ,
+        {
+          "question_text": "hydrogen sulfate ion",
+          "correct_answers": [
+            "$$HSO_4^-$$"
+          ],
+          "incorrect_answers": [
+            "$$HSO_4^{2-}$$",
+            "$$H_2SO_4^-$$",
+            "$$H_3SO_4^+$$",
+            "$$HSO_3^-$$",
+            "$$HSO_3^{2-}$$",
+            "$$H_2SO_2^-$$"
+          ]
+        }
+      ,
+        {
+          "question_text": "hydrogen sulfite ion",
+          "correct_answers": [
+            "$$HSO_3^-$$"
+          ],
+          "incorrect_answers": [
+            "$$HSO_4^{2-}$$",
+            "$$H_2SO_4^-$$",
+            "$$H_3SO_4^+$$",
+            "$$HSO_4^-$$",
+            "$$HSO_3^{2-}$$",
+            "$$H_2SO_2^-$$"
+          ]
+        }
+      ,
+        {
+          "question_text": "phosphate ion",
+          "correct_answers": [
+            "$$PO_4^{3-}$$"
+          ],
+          "incorrect_answers": [
+            "$$FO_4^{3-}$$",
+            "$$FO_3^{2-}$$",
+            "$$FO_2^{1-}$$",
+            "$$FO_3^{3-}$$",
+            "$$PO_4^{2-}$$",
+            "$$PO_3^{3-}$$",
+            "$$PO_2^-$$"
+          ]
+        }
+      ,
+        {
+          "question_text": "hydrogen phosphate ion",
+          "correct_answers": [
+            "$$HPO_4^{2-}$$"
+          ],
+          "incorrect_answers": [
+            "$$HFO_4^-$$",
+            "$$HFO_4^{3-}$$",
+            "$$HFO_3^{2-}$$",
+            "$$HPO_3^{2+}$$",
+            "$$H_2FO_3^{3-}$$",
+            "$$H_2PO_3^{3-}$$",
+            "$$H_2PO_4^+$$",
+            "$$H_2PO_4^-$$"
+          ]
+        }
+      ,
+        {
+          "question_text": "dihydrogen phosphate ion",
+          "correct_answers": [
+            "$$H_2PO_4^-$$"
+          ],
+          "incorrect_answers": [
+            "$$H_2FO_4^-$$",
+            "$$H_2FO_4^{3-}$$",
+            "$$H_2FO_3^{2-}$$",
+            "$$H_2PO_3^{2-}$$",
+            "$$H_2FO_3^{3-}$$",
+            "$$H_2PO_3^{3-}$$",
+            "$$H_2PO_4^+$$",
+            "$$H_2PO_3^-$$",
+            "$$H_2PO_4^{2-}$$"
+          ]
+        }
+      ,
+        {
+          "question_text": "phosphite ion",
+          "correct_answers": [
+            "$$PO_3^{3-}$$"
+          ],
+          "incorrect_answers": [
+            "$$FO_4^{3-}$$",
+            "$$FO_3^{2-}$$",
+            "$$FO_2^{1-}$$",
+            "$$FO_3^{3-}$$",
+            "$$PO_4^{2-}$$",
+            "$$PO_3^{2-}$$",
+            "$$PO_2^-$$"
+          ]
+        },
+        {
+          "question_text": "carbonate ion",
+          "correct_answers": [
+            "$$CO_3^{2-}$$"
+          ],
+          "incorrect_answers": [
+            "$$CO_3^-$$",
+            "$$CO_3^+$$",
+            "$$CO_3^{3-}$$",
+            "$$CO_2^{2-}$$",
+            "$$CO_4^{2-}$$",
+            "$$CO_4^-$$",
+            "$$CO_2^{3-}$$",
+            "$$CO_3^{2+}$$"
+          ]
+        },
+        {
+          "question_text": "hydrogen carbonate ion",
+          "correct_answers": [
+            "$$HCO_3^-$$"
+          ],
+          "incorrect_answers": [
+            "$$H_2CO_3^-$$",
+            "$$H_2CO_3^{2-}$$",
+            "$$H_2CO_3^{3-}$$",
+            "$$HCO_3^+$$",
+            "$$HCO_3^{2-}$$",
+            "$$HCO_3^{3-}$$",
+            "$$HCO_2^-$$",
+            "$$HCO_4^-$$"
+          ]
+        },
+        {
+          "question_text": "acetate ion",
+          "correct_answers": [
+            "$$C_2H_3O_2^-$$"
+          ],
+          "incorrect_answers": [
+            "$$C_3H_3O_3^-$$",
+            "$$C_2H_3O_2^+$$",
+            "$$C_2H_3O_2^{2-}$$",
+            "$$C_2H_3O_2^{3-}$$",
+            "$$CH_2O^-$$"
+          ]
+        },
+        {
+          "question_text": "cyanide ion",
+          "correct_answers": [
+            "$$CN^-$$"
+          ],
+          "incorrect_answers": [
+            "$$H_2CN^-$$",
+            "$$C_2N_2^+$$",
+            "$$C_3N^-$$",
+            "$$C_2N^-$$",
+            "$$SCN^-$$",
+            "$$HCN^+$$"
+          ]
+        },
+        {
+          "question_text": "perchlorate ion",
+          "correct_answers": [
+            "$$ClO_4^-$$"
+          ],
+          "incorrect_answers": [
+            "$$ClO_3^{2-}$$",
+            "$$ClO_3^+$$",
+            "$$ClO_4^{2-}$$",
+            "$$ClO_2^-$$",
+            "$$ClO_3^-$$",
+            "$$ClO_4^+$$",
+            "$$ClO_4^{3-}$$",
+            "$$ClO^-$$"
+          ]
+        },
+        {
+          "question_text": "chlorate ion",
+          "correct_answers": [
+            "$$ClO_3^-$$"
+          ],
+          "incorrect_answers": [
+            "$$ClO_3^{2-}$$",
+            "$$ClO_3^+$$",
+            "$$ClO_3^{3-}$$",
+            "$$ClO_3^{2+}$$",
+            "$$ClO_4^{2-}$$",
+            "$$ClO_2^-$$",
+            "$$ClO_4^-$$",
+            "$$ClO^-$$"
+          ]
+        },
+        {
+          "question_text": "chlorite ion",
+          "correct_answers": [
+            "$$ClO_2^-$$"
+          ],
+          "incorrect_answers": [
+            "$$ClO_3^{2-}$$",
+            "$$ClO_3^+$$",
+            "$$ClO_4^{2-}$$",
+            "$$ClO_4^-$$",
+            "$$ClO_2^{2-}$$",
+            "$$ClO_2^+$$",
+            "$$ClO_2^{2+}$$",
+            "$$ClO^-$$"
+          ]
+        },
+        {
+          "question_text": "hypochlorite ion",
+          "correct_answers": [
+            "$$ClO^-$$"
+          ],
+          "incorrect_answers": [
+            "$$ClO_3^{2-}$$",
+            "$$ClO_3^+$$",
+            "$$ClO_4^{2-}$$",
+            "$$ClO_4^-$$",
+            "$$ClO_2^{2-}$$",
+            "$$ClO_2^+$$",
+            "$$ClO_2^{2+}$$",
+            "$$ClO^+$$",
+            "$$ClO^{2-}$$"
+          ]
+        },
+        {
+          "question_text": "borate ion",
+          "correct_answers": [
+            "$$BO_3^{3-}$$"
+          ],
+          "incorrect_answers": [
+            "$$BO_3^{2-}$$",
+            "$$BO_3^-$$",
+            "$$BO_3^+$$",
+            "$$BO_3^{2+}$$",
+            "$$BO_2^{3-}$$",
+            "$$BO_4^{2-}$$"
+          ]
+        },
+        {
+          "question_text": "hydronium ion",
+          "correct_answers": [
+            "$$H_3O^+$$"
+          ],
+          "incorrect_answers": [
+            "$$H_3O^-$$",
+            "$$OH^-$$",
+            "$$H_2O^+$$",
+            "$$H_4O^-$$",
+            "$$H_2O^-$$",
+            "$$OH^+$$"
+          ]
+        },
+        {
+          "question_text": "hydroxide ion",
+          "correct_answers": [
+            "$$OH^-$$"
+          ],
+          "incorrect_answers": [
+            "$$H_3O^-$$",
+            "$$H_2O^+$$",
+            "$$H_4O^-$$",
+            "$$H_2O^-$$",
+            "$$OH^+$$",
+            "$$H_3O^+$$"
+          ]
+        },
+        {
+          "question_text": "permanganate ion",
+          "correct_answers": [
+            "$$MnO_4^-$$"
+          ],
+          "incorrect_answers": [
+            "$$MnO_4^+$$",
+            "$$MnO_4^{2-}$$",
+            "$$MnO_4^{3-}$$",
+            "$$MnO_7^{2+}$$",
+            "$$Mn_2O_4^-$$",
+            "$$Mn_2O_7^-$$"
+          ]
+        },
+        {
+          "question_text": "chromate ion",
+          "correct_answers": [
+            "$$CrO_4^{2-}$$"
+          ],
+          "incorrect_answers": [
+            "$$CrO_4^-$$",
+            "$$CrO_4^{2+}$$",
+            "$$CrO_4^{3-}$$",
+            "$$Cr_2O_4^{2-}$$",
+            "$$CrO_7^{2-}$$",
+            "$$Cr_3O_4^-$$"
+          ]
+        },
+        {
+          "question_text": "dichromate ion",
+          "correct_answers": [
+            "$$CrO_7^{2-}$$"
+          ],
+          "incorrect_answers": [
+            "$$Cr_2O_7^{3-}$$",
+            "$$Cr_3O_7^-$$",
+            "$$CrO_4^{2-}$$",
+            "$$CrO_4^-$$",
+            "$$Cr_2O_2^{3-}$$",
+            "$$CrO_7^-$$",
+            "$$CrO_7^+$$"
+          ]
+        },
+        {
+          "question_text": "oxidation number",
+          "correct_answers": [
+            "The ideal charge of an atom in a compound if the compound were purely ionic"
+          ],
+          "incorrect_answers": [
+            "The total charge of a molecule",
+            "The number of protons in an atom plus number of electrons",
+            "The number of bonds connected to an atom plus half the number of lone pairs minus the number of valence electrons",
+            "The number of oxygen atoms attached to an atom"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Counting and measurement in chemical experiments",
+      "questions": [
+        {
+          "question_text": "density",
+          "correct_answers": [
+            "Mass over volume",
+            "Valid units for this are mg/L",
+            "Measure of how much matter there is in 1 liter of a substance",
+            "Intensive property that relates mass to volume",
+            "When a sample size is halved, this does not change"
+          ],
+          "incorrect_answers": [
+            "Extensive property that relates mass to volume",
+            "Volume over mass",
+            "Valid units for this are mL/mg",
+            "When a sample size is halved, this is halved",
+            "When a sample size is halved, this is doubled"
+
+          ]
+        },
+        {
+          "question_text": "ratio",
+          "correct_answers": [
+            "A fraction that relates two proportional values (they may have the same units)"
+          ],
+          "incorrect_answers": [
+            "A fraction that relates two proportional values (they must have different units)",
+            "A fraction that relates two inversely proportional values (they must have different units)",
+            "A fraction that relates two inversely proportional values (they may have the same units)"
+          ]
+        },
+        {
+          "question_text": "parts",
+          "correct_answers": [
+            "A generic way to refer to units (such as grams or liters) that are specified in the problem"
+          ],
+          "incorrect_answers": [
+            "A synonym for percent",
+            "A gram to gram ratio",
+            "A kilogram to kilogram ratio",
+            "A synonym for ratio"
+          ]
+        },
+        {
+          "question_text": "percent",
+          "correct_answers": [
+            "Representation of parts per hundred",
+            "How many per hundred"
+          ],
+          "incorrect_answers": [
+            "How many per thousand",
+            "A number that has been multiplied by 100",
+            "A number that has been divided by 100"
+          ]
+        },
+        {
+          "question_text": "measurement by counting",
+          "correct_answers": [
+            "A measure of how many discrete units of something there are rather than something like mass or volume"
+          ],
+          "incorrect_answers": [
+            "A rudimentary way to weigh a mass by counting how many stones it takes to balance it out",
+            "A way to measure something by counting the properties of a comparable substance",
+            "An analog way to measure something by counting the tick marks on something like a ruler"
+          ]
+        },
+        {
+          "question_text": "avogadro’s number",
+          "correct_answers": [
+            "$$6.022\\times10^{24}$$",
+            "The number of atoms in a mole of atoms",
+            "The number of cars in a mole of cars",
+            "The number of moles in a mole of moles"
+          ],
+          "incorrect_answers": [
+            "$$6.022\\times10^{-24}$$",
+            "$$6.022\\times10^{23}$$",
+            "$$2.066\\times10^{-24}$$",
+            "$$2.066\\times10^{24}$$",
+            "The number of atoms in a molecule of an element",
+            "The number of protons in a mole of an element"
+          ]
+        },
+        {
+          "question_text": "mole",
+          "correct_answers": [
+            "The chemists dozen",
+            "There are \\(6.022\\times10^{24}\\) things in this counting unit"
+          ],
+          "incorrect_answers": [
+            "A unit that is frequently used to measure the mass of a chemical sample",
+            "A unit that is frequently used to measure the volume of a chemical sample",
+            "A counting unit that is used because most chemical samples contain too few molecules",
+            "A counting unit that is used because grams are too large a unit to use for molecules",
+            "A counting unit that is used because grams are too small a unit to use for molecules"
+          ]
+        },
+        {
+          "question_text": "counting unit",
+          "correct_answers": [
+            "Examples of these are dozen, score, gross, and pair",
+            "A unit that is used to count discrete number of things",
+            "A unit that has a value associated with a discrete number of objects"
+          ],
+          "incorrect_answers": [
+            "Any unit that has a value that is under 1 million",
+            "Any unit that has an accepted value attached to it",
+            "Any unit that has a metric prefix attached to it",
+            "Examples of these are atom, molecule, and formula unit"
+          ]
+        },
+        {
+          "question_text": "molecular scale",
+          "correct_answers": [
+            "The scale that pertains to very small things"
+          ],
+          "incorrect_answers": [
+            "An instrument that can be used to measure the mass of molecules",
+            "An instrument that can be used to measure the volume of molecules",
+            "An instrument that can be used to count molecules",
+            "The scale that pertains to things that you would need a microscope to see"
+          ]
+        },
+        {
+          "question_text": "macroscopic scale",
+          "correct_answers": [
+            "The scale that pertains to relatively large things"
+          ],
+          "incorrect_answers": [
+            "Any instrument that can be used to weigh normal objects",
+            "Any instrument that can be used to measure the volume of normal objects",
+            "The scale that pertains to things that you would need a microscope to see"
+          ]
+        },
+        {
+          "question_text": "mole ratio",
+          "correct_answers": [
+            "Any ratio that relates mole amounts of atoms, molecules, and formula units"
+          ],
+          "incorrect_answers": [
+            "Any ratio that relates moles to any other type of counting unit",
+            "Any ratio that has Avagadro's number in the numerator or denominator",
+            "Any ratio that divides out to yield a value of \\(6.022\\times10^{24}\\)"
+          ]
+        },
+        {
+          "question_text": "formula unit",
+          "correct_answers": [
+            "The term used to talk about one set of atoms of an ionic compound"
+          ],
+          "incorrect_answers": [
+            "The units of measure for quantities of any chemicals that are found in the chemical formulas of a chemical equation",
+            "A generic unit of mass that can be used to talk about any chemical formula",
+            "A counting unit that stands for a mole of a specific chemical",
+            "A relatively large counting unit that is comparable to, but not the same as, a mole"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Measurement of chemical substances",
+      "questions": [
+        {
+          "question_text": "atomic mass",
+          "correct_answers": [
+            "The characteristic mass of an element",
+            "The weighted average of all naturally occurring isotopes of an element expressed as a unit-less quantity"
+          ],
+          "incorrect_answers": [
+            "The number of protons plus neutrons for an element",
+            "The mass of an atom, in grams",
+            "The weighted average of all naturally occurring isotopes of an element expressed in grams",
+            "The weighted average of all naturally occurring isotopes of an element expressed in grams per mole"
+          ]
+        },
+        {
+          "question_text": "atomic mass scale",
+          "correct_answers": [
+            "A relative mass scale defined by setting the mass of one atom of C-12 to 12"
+          ],
+          "incorrect_answers": [
+            "The scale pertaining to atoms and molecules",
+            "A relative mass scale defined by setting the mass of one atom of C-12 to 12 grams",
+            "A relative mass scale defined by setting the mass of one molecule of C-12 to 12",
+            "A relative mass scale defined by setting the mass of one atom of C-12 to 12 grams per mole",
+            "A relative mass scale defined by setting the mass of one mole of C-12 to 12 amu"
+          ]
+        },
+        {
+          "question_text": "atomic mass unit",
+          "correct_answers": [
+            "Defined as 1/12 the mass of a C-12 atom",
+            "The unit you should use when expressing the masses of single atoms, molecules, and formula units",
+            "Roughly the mass of one proton or neutron"
+          ],
+          "incorrect_answers": [
+            "The unit you should use when expressing the masses of moles of atoms",
+            "An arbitrary unit of mass that is almost equivalent to one gram",
+            "Roughly the mass of one electron",
+            "Roughly the mass of a normal atomic nucleus",
+            "Roughly the mass of one C-12 atoms",
+            "Roughly the mass of a helium atom",
+            "Roughly the mass of a penny"
+          ]
+        },
+        {
+          "question_text": "formula mass",
+          "correct_answers": [
+            "The sum of all of the atomic masses that make up one formula unit- usually expressed in atomic mass units",
+            "Can be used to convert specifically between amu and formula units"
+          ],
+          "incorrect_answers": [
+            "The sum of all of the masses in a chemical sample",
+            "The sum of all of the subscripts in a chemical formula",
+            "The sum of all of the atomic masses that make up one formula unit - usually expressed in grams",
+            "The sum of all protons and neutrons present in a chemical formula"
+          ]
+        },
+        {
+          "question_text": "molar mass",
+          "correct_answers": [
+            "The mass in grams of one mole of a substance",
+            "The same number as the formula mass, but expressed in grams/mole instead of amu/formula unit",
+            "Can be used to convert specifically between grams and moles",
+            "An intensive property that relates grams to moles"
+          ],
+          "incorrect_answers": [
+            "The mass in amu of one mole of a substance",
+            "The mass in kilograms of one mole of a substance",
+            "An extensive property that relates grams to moles",
+            "An extensive property that relates amu to moles",
+            "An intensive property that relates amu to grams"
+          ]
+        },
+        {
+          "question_text": "mass percentage",
+          "correct_answers": [
+            "The mass of one element in a compound divided by the total mass times 100",
+            "The percent of the total mass of a compound that one element contributes"
+          ],
+          "incorrect_answers": [
+            "The percent of the total volume of a compound that one element contributes",
+            "The percent of the total moles of a compound that one element contributes",
+            "The percent of the entire sample's mass that is contributed by the mass of one compound",
+            "The percent of the total mass of a mixture that one element contributes"
+          ]
+        },
+        {
+          "question_text": "percentage composition",
+          "correct_answers": [
+            "A set of mass percentages of each element in a compound"
+          ],
+          "incorrect_answers": [
+            "A set of volume percentages of each element in a compound",
+            "A set of mass percentages of each element in a mixture",
+            "A set of mass percentages of each compound in a sample"
+          ]
+        },
+        {
+          "question_text": "empirical formula",
+          "correct_answers": [
+            "A formula for a compound that has the smallest whole number subscripts possible"
+          ],
+          "incorrect_answers": [
+            "The mole ratio of elements in a compound that exists in nature",
+            "The formula of a compound with the largest subscript being 1",
+            "The formula of a compound with the smallest subscript always set to 1"
+          ]
+        },
+        {
+          "question_text": "molecular formula",
+          "correct_answers": [
+            "A formula for a compound that has the smallest whole number subscripts and is still found in nature"
+          ],
+          "incorrect_answers": [
+            "A formula for a compound that has the smallest whole number subscripts possible",
+            "A formula for a molecule that has the smallest whole number subscripts possible",
+            "A formula for a molecule that is not a compound"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Chemical Reactions",
+      "questions": [
+        {
+          "question_text": "reactant",
+          "correct_answers": [
+            "Found to the left of the chemical reaction arrow"
+          ],
+          "incorrect_answers": [
+            "Found to the right of the chemical reaction arrow",
+            "Is sometimes found to the right and sometimes found to the left of the chemical reaction depending on your point of view",
+            "Is always completely used up when a chemical reaction is carried out",
+            "Is always completely used up when a chemical reaction is carried out with the appropriate amount of reactants"
+          ]
+        },
+        {
+          "question_text": "product",
+          "correct_answers": [
+            "Found to the right of the chemical reaction arrow"
+          ],
+          "incorrect_answers": [
+            "Found to the left of the chemical reaction arrow",
+            "Is sometimes found to the right and sometimes found to the left of the chemical reaction depending on your point of view",
+            "Is always produced by completely using up the reactants"
+          ]
+        },
+        {
+          "question_text": "chemical equation",
+          "correct_answers": [
+            "An equation that expresses a chemical change with reactants -> products"
+          ],
+          "incorrect_answers": [
+            "A mathematical equation that is used to calculate chemical quantities in a reaction",
+            "An equation that expresses a physical change with reactants -> products",
+            "An equation that expresses a chemical change with products --> reactants",
+            "An equation that expresses a physical change with products --> reactants",
+            "An equation that expresses a chemical change where reactants are sometimes on the left and sometimes on the right"
+          ]
+        },
+        {
+          "question_text": "synthesis reaction",
+          "correct_answers": [
+            "Two or more reactants react to form a new compound",
+            "A + B -> C"
+          ],
+          "incorrect_answers": [
+            "A -> B + C",
+            "There is always one reactant and one product",
+            "There are always 2 reactants and two products",
+            "There are always many reactants and many products",
+            "A + B -> C + D",
+            "A + BC -> AC + B"
+          ]
+        },
+        {
+          "question_text": "decomposition reaction",
+          "correct_answers": [
+            "When a single compound splits into two or more products",
+            "AB -> A + B"
+          ],
+          "incorrect_answers": [
+            "Two or more reactants react to form a new compound",
+            "A + B -> C",
+            "There is always one reactant and one product",
+            "There are always 2 reactants and two products",
+            "There are always many reactants and many products",
+            "A + B -> C + D",
+            "A + BC -> AC + B"
+          ]
+        },
+        {
+          "question_text": "single displacement reaction",
+          "correct_answers": [
+            "A + BC -> AC + B",
+            "An element reacts with an ionic compound to produce a different element and a different ionic compound",
+            "An activity series should generally be used to check if this type of reaction will occur"
+          ],
+          "incorrect_answers": [
+            "AB -> A + B",
+            "Two or more reactants react to form a new compound",
+            "A + B -> C",
+            "There is always one reactant and one product",
+            "There are always 2 reactants and two products",
+            "There are always many reactants and many products",
+            "A + B -> C + D",
+            "A solubility table should generally be used to check if this type of reaction will occur"
+          ]
+        },
+        {
+          "question_text": "double displacement reaction",
+          "correct_answers": [
+            "AB + CD -> AD + CB",
+            "A solubility table should generally be used to check if this type of reaction will occur",
+            "Two ionic compounds react to produce two new ionic compounds",
+            "There are always 2 reactants and two products"
+          ],
+          "incorrect_answers": [
+            "AB -> A + B",
+            "Two or more reactants react to form a new compound",
+            "A + B -> C",
+            "There is always one reactant and one product",
+            "There are always many reactants and many products",
+            "An activity series should generally be used to check if this type of reaction will occur",
+            "AB + CD -> AC + BD"
+          ]
+        },
+        {
+          "question_text": "redox reaction",
+          "correct_answers": [
+            "Occurs when one or more atoms undergo changes in oxidation states from reactants to products",
+            "Every single displacement reaction is also a redox reaction",
+            "Every synthesis reaction is also a redox reaction",
+            "Every combustion reaction is also a redox reaction"
+          ],
+          "incorrect_answers": [
+            "If a reaction is characterized as redox, it cannot be another reaction type as well",
+            "Every double displacement reaction is also a redox reaction",
+            "AB + CD -> AC + BD",
+            "There is always one reactant and one product",
+            "There are always many reactants and many products"
+          ]
+        },
+        {
+          "question_text": "combustion reaction",
+          "correct_answers": [
+            "A compound reacts with oxygen to yield all the elements as compounds containing oxygen",
+            "A specific type of redox reaction",
+            "Does not always yield carbon dioxide and water, but generally does in this class"
+          ],
+          "incorrect_answers": [
+            "Is never a redox reaction",
+            "Is also a synthesis reaction",
+            "Is also a double displacement reaction",
+            "An activity series should generally be used to check if this type of reaction will occur",
+            "A solubility table should generally be used to check if this type of reaction will occur",
+            "Always yields carbon dioxide and water as products"
+          ]
+        },
+        {
+          "question_text": "activity series",
+          "correct_answers": [
+            "A list of metals ordered by their relative ability to pair with an anion",
+            "A list of metals with the most easily oxidized species on the left and the least easily oxidized species on the right",
+            "Generally used when one must decide whether or not a single displacement reaction will occur"
+          ],
+          "incorrect_answers": [
+            "A list of metals ordered by their relative ability to pair with a cation",
+            "A list of metals with the most easily reduced species on the left and the least easily reduced species on the right",
+            "A list of metals ordered by their relative ability to pair with other metals",
+            "A list of metals ordered by their relative kinetic energy",
+            "Generally used when one must decide whether or not a double displacement reaction will occur"
+          ]
+        },
+        {
+          "question_text": "solubility trends",
+          "correct_answers": [
+            "General rules to determine whether or not a compound will dissolve in water",
+            "General rules to determine whether or not a compound will make an aqueous solution",
+            "Generally used when one must decide whether or not a double displacement reaction will occur"
+          ],
+          "incorrect_answers": [
+            "A list of metals ordered by their relative ability to pair with an anion",
+            "A list of metals with the most easily oxidized species on the left and the least easily oxidized species on the right",
+            "Generally used when one must decide whether or not a single displacement reaction will occur",
+            "General rules to determine whether or not a compound will react with water",
+            "General rules to determine whether or not a polyatomic ion will be soluble in water"
+          ]
+        },
+        {
+          "question_text": "oxidation",
+          "correct_answers": [
+            "The act of increasing oxidation state",
+            "The act of losing electrons",
+            "The act of gaining charge",
+            "The act of bonding with more oxygen atoms"
+          ],
+          "incorrect_answers": [
+            "The act of decreasing oxidation state",
+            "The act of gaining electrons",
+            "The act of losing charge",
+            "The act of gaining protons",
+            "The act of gaining neutrons",
+            "The act of losing neutrons"
+          ]
+        },
+        {
+          "question_text": "reduction",
+          "correct_answers": [
+            "The act of decreasing oxidation state",
+            "The act of gaining electrons",
+            "The act of losing charge"
+          ],
+          "incorrect_answers": [
+            "The act of bonding with more oxygen atoms",
+            "The act of gaining neutrons",
+            "The act of losing neutrons",
+            "The act of reducing the number of electrons"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Chemical Stoichiometry",
+      "questions": [
+        {
+          "question_text": "chemical stoichiometry",
+          "correct_answers": [
+            "The study of the amounts of chemical substances",
+            "The ratios of atoms in a compound",
+            "The ratios of moles for different compounds in a reaction"
+          ],
+          "incorrect_answers": [
+            "The use of molar mass to convert between grams and moles",
+            "The act of balancing an equation",
+            "Calculating a mass composition from a balanced equation"
+          ]
+        },
+        {
+          "question_text": "excess reactant",
+          "correct_answers": [
+            "The substance that will be left over due to having greater than the stoichiometric amount",
+            "The reactant that will not be completely used up at the end of the reaction",
+            "The reactant that does not control the product yield"
+          ],
+          "incorrect_answers": [
+            "The reactant amount that is most important to keep track of during a stoichiometric calculation",
+            "The reactant that will be completely used up when the reaction is complete",
+            "The reactant that has the highest stoichiometric coefficient",
+            "The reactant that has the lowest stoichiometric coefficient"
+          ]
+        },
+        {
+          "question_text": "limiting reactant",
+          "correct_answers": [
+            "The substance that will be used up due to having lower than the stoichiometric amount",
+            "Reactant that you will run out of first",
+            "Generally, the important reactant amount when doing stoichiometry problems",
+            "The reactant that controls the amount of product produced"
+          ],
+          "incorrect_answers": [
+            "The substance that will be left over due to having greater than the stoichiometric amount",
+            "The reactant that will not be completely used up at the end of the reaction",
+            "The reactant that does not control the product yield",
+            "The reactant that has the highest stoichiometric coefficient",
+            "The reactant that has the lowest stoichiometric coefficient"
+          ]
+        },
+        {
+          "question_text": "yield",
+          "correct_answers": [
+            "The general name for the amount of product(s) formed as a result of a chemical reaction"
+          ],
+          "incorrect_answers": [
+            "The act of one molecule yielding to another when a displacement reaction occurs",
+            "The process by which molecules compete for an active site",
+            "The general name for the names of the products formed as a result of a chemical reaction",
+            "The general mechanism by which decomposition reactions occur"
+          ]
+        },
+        {
+          "question_text": "actual yield",
+          "correct_answers": [
+            "The amount of a specific product produced when an experiment is actually carried out",
+            "The amount of a specific product produced when a thought experiment is carried out"
+          ],
+          "incorrect_answers": [
+            "The amount of product that is calculated during a stoichiometric calculation",
+            "The average amount of product produced when simulations are run to see how much product should be produced",
+            "The deviation from theory that occurs when one metal displaces another metal that has a higher activity"
+          ]
+        },
+        {
+          "question_text": "theoretical yield",
+          "correct_answers": [
+            "The amount of a specific product that ideally should be produced according to stoichiometric calculations"
+          ],
+          "incorrect_answers": [
+            "The amount of a specific product produced when an experiment is actually carried out",
+            "The amount of a specific product produced when a thought experiment is carried out",
+            "The amount of a specific product produced when unlimited reactants are available",
+            "The amount of a specific product that ideally should be produced according to stoichiometric calculations - this value must be given in grams",
+            "The amount of a specific product that ideally should be produced according to stoichiometric calculations - this value must be given in moles",
+            "The amount of a specific product produced when a thought experiment is carried out - this value must be given in grams",
+            "The amount of a specific product produced when an experiment is actually carried out - this value must be given in moles"
+          ]
+        },
+        {
+          "question_text": "percentage yield",
+          "correct_answers": [
+            "A metric to determine how ideal a reaction yield is",
+            "Actual yield divided by theoretical yield times 100%"
+          ],
+          "incorrect_answers": [
+            "The theoretical yield divided by the actual yield",
+            "The actual yield divided by the theoretical yield",
+            "The theoretical yield divided by the actual yield times 100%",
+            "Actual yield divided by theoretical yield times 100% - this value must be given in units of moles",
+            "Actual yield divided by theoretical yield times 100% - this value must be given in units of grams"
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Solutions, molarity, and stoichiometry",
+      "questions": [
+        {
+          "question_text": "solute",
+          "correct_answers": [
+            "The substance that is dissolved in a solution",
+            "The substance in a solution that there is generally less of"
+          ],
+          "incorrect_answers": [
+            "The substance that does the dissolving in a solution",
+            "The substance in a solution that there is generally more of",
+            "Any substance that is able to be dissolved in water",
+            "Any substance that is able to be dissolved in diethyl ether",
+            "Any substance that is able to dissolve table salt"
+          ]
+        },
+        {
+          "question_text": "solvent",
+          "correct_answers": [
+            "The substance that does the dissolving in a solution",
+            "The substance in a solution that there is generally more of"
+          ],
+          "incorrect_answers": [
+            "The substance that is dissolved in a solution",
+            "The substance in a solution that there is generally less of",
+            "Any substance that is able to be dissolved in water",
+            "Any substance that is able to be dissolved in diethyl ether",
+            "Any substance that is able to dissolve table salt"
+          ]
+        },
+        {
+          "question_text": "aqueous solutions",
+          "correct_answers": [
+            "A solution where water is the solvent"
+          ],
+          "incorrect_answers": [
+            "The result of mixing any solid with water",
+            "The result of mixing any liquid with water",
+            "The result of mixing any gas with water",
+            "A solution where water is the solute"
+          ]
+        },
+        {
+          "question_text": "soluble",
+          "correct_answers": [
+            "Capable of being dissolved in a specific solvent"
+          ],
+          "incorrect_answers": [
+            "Not capable of being dissolved in water",
+            "Not capable of being dissolved in a specific solvent",
+            "Capable of being dissolved in water"
+          ]
+        },
+        {
+          "question_text": "insoluble",
+          "correct_answers": [
+            "Not capable of being dissolved in a specific solvent"
+          ],
+          "incorrect_answers": [
+            "Capable of being dissolved in a specific solvent",
+            "Capable of being dissolved in water",
+            "Not capable of being dissolved in water"
+          ]
+        },
+        {
+          "question_text": "solubility",
+          "correct_answers": [
+            "The intensive property that measures how much solute can be dissolved in a saturated solution"
+          ],
+          "incorrect_answers": [
+            "The extensive property that measure how much solute can be dissolved in a saturated solution",
+            "A yes or no property that states whether a given solute can dissolve in a given solvent",
+            "A property that varies with temperature as well as sample volume"
+          ]
+        },
+        {
+          "question_text": "dissociate",
+          "correct_answers": [
+            "To break up - generally refers to the act of an ionic compound breaking up in water"
+          ],
+          "incorrect_answers": [
+            "To break up - generally refers to the act of covalent bonds breaking when molecules dissolve in water",
+            "To break up - generally refers to the act of hydrogen bonds breaking when molecules dissolve in water",
+            "To break up - generally refers to the act of the reduction of metals in solution",
+            "To break up - generally refers to the act of the oxidation of metals in solution"
+          ]
+        },
+        {
+          "question_text": "molarity",
+          "correct_answers": [
+            "A unit that measures concentration using moles per liter",
+            "An intensive property that relates concentration to volume",
+            "An intensive property that relates moles of solute to liters of solution"
+          ],
+          "incorrect_answers": [
+            "An extensive property that relates concentration to volume",
+            "An intensive property that relates moles of solution to liters of solute",
+            "An intensive property that relates moles of solute to liters of solvent",
+            "An extensive property that relates moles of solution to liters of solute",
+            "An extensive property that relates moles of solute to liters of solvent",
+            "An intensive property that relates moles of solvent to liters of solute"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
